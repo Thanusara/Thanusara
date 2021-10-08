@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Article Are lazy](Article Are lazy)
 
-- ⚡ Fun fact **Want A Bug**
+- ⚡ Fun fact **I am a student**
 
 
 <h3 align="left">Languages and Tools:</h3>
